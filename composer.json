@@ -1,0 +1,14 @@
+{
+    "name": "nicol/app-salon_deployment_fin",
+    "description": "Proyecto PHP mvc sql gulp",
+    "authors": [
+        {
+            "name": "Luis Avila",
+            "email": "nicolas11avi@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
