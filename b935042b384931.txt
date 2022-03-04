@@ -1,0 +1,7 @@
+b935042b384931
+9404b21c
+host: us-cdbr-east-05.cleardb.net
+heroku_ecafd683487610b
+
+mysql://bcb2f7e5f1d5c3:1c361a6a@us-cdbr-east-05.cleardb.net/heroku_534c24a9544ec72?reconnect=true
+
